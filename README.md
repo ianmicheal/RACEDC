@@ -1,4 +1,4 @@
-# RACEDC
+# RACEDC DREAMCAST RACE! is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms.
 Neogeo pocket color for dreamcast ported by Troy davis GPF Update by Ian micheal
 Updated gui sound overlay support saving fixes 
 
